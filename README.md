@@ -1,4 +1,4 @@
 IronBall
 ========
 
-FuseBlade, SpeedFuse and FuseTripper's Repo
+FuseBlade, BladeFuse, SpeedFuse and FuseTripper's Repo
